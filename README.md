@@ -59,10 +59,15 @@ The film industry is constantly evolving and with it the viewing public's tastes
         Feature: Western, Importance: 0.00246292053397884
 
     Q: Are there any discernible trends or patterns in audience preferences over time, and how do these trends correlate with changes in the film industry?
+        Audiences concistently prefer Drama Movies, yet the actors and sub genres vary over time significantly 
 
     Q: Can we accurately predict the success or ratings of a film based on its various attributes such as release year, duration, and genre themes?
         We can predict most films to an MSE of 0.19 however based on the distribution of the data, the model isn't very accurate with films that skew in either direction and therefor isn't accurate on unseen data. 
 
     Q: What insights can be gained from analyzing crowd-sourced film reviews and ratings on platforms like LetterBoxd, and how can these insights inform filmmakers and viewers about evolving trends in the film industry?
-        
+        We can analyze which actors preform better and which genres are most liked, if we incorporate more data we can also create better predictive models.
+
+    # Video Link: https://youtu.be/Ig3hEgqtYUo
+
+    # Final Writup: 
 
