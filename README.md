@@ -67,7 +67,7 @@ The film industry is constantly evolving and with it the viewing public's tastes
     Q: What insights can be gained from analyzing crowd-sourced film reviews and ratings on platforms like LetterBoxd, and how can these insights inform filmmakers and viewers about evolving trends in the film industry?
         We can analyze which actors preform better and which genres are most liked, if we incorporate more data we can also create better predictive models.
 
-    # Video Link: https://youtu.be/Ig3hEgqtYUo
+# Video Link: https://youtu.be/Ig3hEgqtYUo
 
-    # Final Writup: 
+# Final Writup: 
 
