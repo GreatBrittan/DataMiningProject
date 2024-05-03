@@ -69,5 +69,5 @@ The film industry is constantly evolving and with it the viewing public's tastes
 
 # Video Link: https://youtu.be/Ig3hEgqtYUo
 
-# Final Writup: [embed]https://github.com/GreatBrittan/DataMiningProject/blob/main/07_LetterBoxdFilmAnalysis_Final_Report.pdf[/embed]
+# Final Writup: https://github.com/GreatBrittan/DataMiningProject/blob/main/07_LetterBoxdFilmAnalysis_Final_Report.pdf
 
